@@ -1,3 +1,4 @@
+# Developed by: Bruno Mascioli de Souza (github: brunomascioli) and Lucas Pereira dos Santos (github: LucassSantoss)
 import math
 from random import choice
 
