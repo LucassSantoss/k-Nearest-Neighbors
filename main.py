@@ -85,6 +85,7 @@ def determine_class(matrix):
     file.close()
 
 def main():
+    print("teste")
     k = int(input('K: '))
     file_name = input('Name of the unclassified data file: ')
     examples_matrix = read_examples()
